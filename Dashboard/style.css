@@ -11,3 +11,17 @@ h1 {
     background-color: rgb(241, 237, 237);
     padding: 2%;
   }
+
+.table{
+    overflow: scroll;
+    color: white;
+}
+
+p {
+    color: black;
+    padding: 2%;
+}
+
+.dropdown{
+    padding: 2%;
+}
