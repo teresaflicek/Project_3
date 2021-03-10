@@ -1,0 +1,13 @@
+.col-md-12{
+    background-color: white;
+}
+
+h1 {
+    color: black;
+}
+
+.container{
+    position: relative;
+    background-color: rgb(241, 237, 237);
+    padding: 2%;
+  }
